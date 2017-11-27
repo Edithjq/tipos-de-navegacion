@@ -4,6 +4,7 @@
 2.- Identifica los elementos de navegación en los siguientes sites
 
 ### a) Breather
+
 * NAVEGACION GLOBAL 
 ![Navegacion](images/image1.png)
 
@@ -11,12 +12,13 @@
 ![Navegacion](images/image6.png)
 
 ### b) Github
+
 * NAVEGACION FACETADA
 ![Navegacion](images/image2.png)
 
-
 * NAVEGACION INLINE
 ![Navegacion](images/image3.png)
+
 
 ### c) Medium
 
