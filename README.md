@@ -5,13 +5,23 @@
 
 ### a) Breather
 * NAVEGACION GLOBAL 
-![Lyft Website](images/Screenshot_6.png)
+![Navegacion](images/image1.png)
 
 * NAVEGACION FILTRADA
-![Lyft Website](images/Screenshot.png)
+![Navegacion](images/image6.png)
 
 ### b) Github
+* NAVEGACION FACETADA
+![Navegacion](images/image2.png)
+
+
+* NAVEGACION INLINE
+![Navegacion](images/image3.png)
+
 ### c) Medium
 
 * NAVEGACION GLOBAL
-![Lyft Website](images/medium.png)
+![Navegacion](images/image8.png)
+
+* NAVEGACION LOCAL
+![Navegacion](images/image7.png)
