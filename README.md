@@ -15,6 +15,10 @@
 
 ### b) Github
 
+* NAVEGACION LOCAL
+
+![Navegacion](images/image4.png)
+
 * NAVEGACION FACETADA
 
 ![Navegacion](images/image2.png)
@@ -22,6 +26,10 @@
 * NAVEGACION INLINE
 
 ![Navegacion](images/image3.png)
+
+* NAVEGACION CONTEXTUAL
+
+![Navegacion](images/image5.png)
 
 
 ### c) Medium
